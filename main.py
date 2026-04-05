@@ -5,9 +5,9 @@ from aiogram.filters import Command
 from aiogram.types import Message, WebAppInfo, InlineKeyboardButton, InlineKeyboardMarkup
 
 # --- SETTINGS ---
-API_TOKEN = 'ВАШ_ТОКЕН_БОТА' # Replace with your token
+API_TOKEN = '7921854103:AAGoZs7ZQqSOO90exsfo18NPbWw4_1_ILto' # Replace with your token
 # Replace with the link you get from GitHub Pages (Settings -> Pages)
-APP_URL = "https://vluxx17-creator.github.io/BoNEW/" 
+APP_URL = "https://vluxx17-creator.github.io/Betatest/" 
 
 logging.basicConfig(level=logging.INFO)
 
